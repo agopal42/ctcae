@@ -46,10 +46,10 @@ See `train.py` script for details on all run profiles.
 When using this code, please cite our paper:
 
 ```
-@article{stanic2023contrastive,
+@inproceedings{stanic2023contrastive,
   title={Contrastive Training of Complex-Valued Autoencoders for Object Discovery},
   author={Stani{\'c}, Aleksandar and Gopalakrishnan, Anand and Irie, Kazuki and Schmidhuber, J{\"u}rgen},
-  journal={Advances in Neural Information Processing Systems (NeurIPS), 2023},
+  booktitle={Proc. Advances in Neural Information Processing Systems (NeurIPS), 2023},
   year={2023}
 }
 ```
