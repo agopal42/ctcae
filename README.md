@@ -37,7 +37,7 @@ To run training and test on the original resolution (64x64 for `multi_dpsrites` 
 
 ```python3 train.py --profile=ctcae_dsprites_64x64```
 
-```python3 train.py --profile=ctcae_clevr_96x64```
+```python3 train.py --profile=ctcae_clevr_96x96```
 
 To run training and test for CAE++ and CAE baselines, simply replace `ctcae` in the above commands with `caepp` and `cae` respectively (e.g. `python3 train.py --profile=caepp_clevr` to run CAE model on CLEVR dataset).
 See `train.py` script for details on all run profiles.
