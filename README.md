@@ -17,7 +17,7 @@ This repo provides a reference implementation for the CtCAE as introduced in our
 
 ## Setup
 
-To download the data use the linke provided on the EMORL GitHub repository: [https://github.com/pemami4911/EfficientMORL](https://github.com/pemami4911/EfficientMORL), or directly from here: [https://zenodo.org/records/4895643](https://zenodo.org/records/4895643).
+To download the data use the links provided on the EMORL GitHub repository: [https://github.com/pemami4911/EfficientMORL](https://github.com/pemami4911/EfficientMORL), or directly from here: [https://zenodo.org/records/4895643](https://zenodo.org/records/4895643).
 Store the `*.h5` files to `data` directory in this repository.
 
 Use the `requirements.txt` to install the necessary packages, e.g. run `pip3 install -r requirements.txt`.
